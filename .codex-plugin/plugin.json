@@ -1,0 +1,18 @@
+{
+  "name": "notemehere",
+  "version": "0.1.0",
+  "description": "Your NoteMeHere workspace from the agent you already use: capture, find and edit pages.",
+  "author": { "name": "Andrii" },
+  "license": "MIT",
+  "keywords": ["notemehere", "notes", "notion", "mcp"],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "NoteMeHere",
+    "shortDescription": "Capture, find and edit your notes",
+    "longDescription": "Read and write the pages of your NoteMeHere workspace from Codex, after approving the connection once in your browser.",
+    "developerName": "Andrii",
+    "category": "Productivity",
+    "capabilities": ["Read", "Write"]
+  }
+}

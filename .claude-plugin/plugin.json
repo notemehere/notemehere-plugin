@@ -1,0 +1,8 @@
+{
+  "name": "notemehere",
+  "version": "0.1.0",
+  "description": "Your NoteMeHere workspace from the agent you already use: capture, find and edit pages.",
+  "author": { "name": "Andrii" },
+  "license": "MIT",
+  "keywords": ["notemehere", "notes", "notion", "mcp"]
+}
