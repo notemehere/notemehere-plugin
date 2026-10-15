@@ -2,7 +2,7 @@
   "mcpServers": {
     "notemehere": {
       "type": "http",
-      "url": "http://localhost:8787/mcp"
+      "url": "https://notemehere-mcp.andrewdev.workers.dev/mcp"
     }
   }
 }
